@@ -10,4 +10,4 @@ Repositório para armazenar exercícios utilizando Java e Spring Boot do curso d
  ## 💻 Resumo das aulas 
 | Aulas | Resumos |
 |-------|---------|
-|Fundamentos da POO | [Resumos](https://web.dio.me/course/fundamentos-da-programacao-orientada-a-objetos-com-java/learning/fd8a5d84-efb1-434b-aeab-215e344ebe26?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined) 
+|Fundamentos da POO | [Resumos](https://web.dio.me/course/fundamentos-da-programacao-orientada-a-objetos-com-java/learning/fd8a5d84-efb1-434b-aeab-215e344ebe26?back=/track/coding-the-future-claro-java-spring-boot&tab=undefined&moduleId=undefined) §
